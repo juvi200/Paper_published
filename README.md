@@ -1,5 +1,5 @@
 # Paper_published
 In this I have published a research paper in IJRTD journal on Public Distribution System
-# [Paper](https://app.luminpdf.com/viewer/6179065dc39d900019418a9e)
-# [Certificate_link](https://app.luminpdf.com/viewer/6178f507c39d90001941888e)
+# [Paper](https://drive.google.com/file/d/1smyBc8znJ7tshIkWrVxsUQ7AdCNQypta/view?usp=sharing)
+# [Certificate_link](https://drive.google.com/file/d/1ls8VgEte2eS9fOkntPF-DZ6py4Q11Zbw/view?usp=sharing)
 
